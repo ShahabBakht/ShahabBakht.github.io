@@ -1,7 +1,7 @@
 ---
 title: "ubspace-based Identification Algorithm for characterizing causal networks in resting brain"
 collection: publications
-permalink: /publication/2019-bayespostest
+permalink: /publication/2012-SIA
 date: 2012
 venue: 'Neuroimage'
 paperurl: ''
