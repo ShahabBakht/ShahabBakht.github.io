@@ -7,27 +7,11 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+An outstanding, and arguably the most important, feature of the brain is its adaptability. Brains continuously change, over different time-scales, to adapt to their environments. The functional properties of our brain is the product of millions of years of evolution, years of neural development, and decades of life-long learning. Therefore, understanding the brain largely depends on understanding its adaptation processes. How do brains develop and how do they change in response to different internal and external factors?
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Specifically, I am interested in the functional properties of the visual system. How neural development and life-long perceptual learning shape the visual system? How has evolution shaped the visual systems of different species? My research is focused on developing an algorithmic understanding of how visual experience changes the visual system and how it influences our perceptual and visuomotor abilities. 
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+To that end, I follow a “Neuro-AI” approach: a bidirectional knowledge transfer between neuroscience and AI. In one direction, I use Artificial Neural Networks (ANN) and deep learning techniques to develop theories of visual development and learning in the brain. In the other direction, I leverage our deep learning-based knowledge of brain development and learning to formulate new techniques for building more human-like AI. This continuous dialogue between Neuroscience and AI can create a dynamic ecosystem that will lead to a deeper understanding of brain function and better and more human-aligned AI. 
 
 <nbsp>
 
