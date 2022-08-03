@@ -150,9 +150,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - _pages/teaching
-  - _pages/software
-  - _pages/publications
 keep_files:
   - .git
   - .svn
