@@ -152,6 +152,8 @@ exclude:
   - vendor
   - _pages/teaching
   - _pages/software
+  - _pages/publications
+  - _pages/cv 
 keep_files:
   - .git
   - .svn
