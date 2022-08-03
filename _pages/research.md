@@ -11,7 +11,7 @@ An outstanding feature of the brain is its adaptability. Brains continuously cha
 
 Specifically, I am interested in the functional properties of the visual system. How neural development and life-long perceptual learning shape the visual system? How has evolution shaped the visual systems of different species? My research aims to answer these questions by developing an algorithmic understanding of how visual experience changes the visual system and how it influences our perceptual and visuomotor abilities. 
 
-To that end, I follow a “Neuro-AI”</em> approach: a bidirectional knowledge transfer between neuroscience and AI. In one direction, I use Artificial Neural Networks (ANN) and deep learning techniques to develop theories of visual development and learning in the brain. In the other direction, I leverage our deep learning-based knowledge of brain development and learning to formulate new techniques for building more human-like AI. This continuous dialogue between Neuroscience and AI can create a dynamic ecosystem that will lead to a deeper understanding of brain function and better and more human-aligned AI. 
+To that end, I follow a *“Neuro-AI”* approach: a bidirectional knowledge transfer between neuroscience and AI. In one direction, I use Artificial Neural Networks (ANN) and deep learning techniques to develop theories of visual development and learning in the brain. In the other direction, I leverage our deep learning-based knowledge of brain development and learning to formulate new techniques for building more human-like AI. This continuous dialogue between Neuroscience and AI can create a dynamic ecosystem that will lead to a deeper understanding of brain function and better and more human-aligned AI. 
 
 <nbsp>
 
