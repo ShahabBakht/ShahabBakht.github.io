@@ -19,6 +19,3 @@ To that end, I follow a “Neuro-AI” approach: a bidirectional knowledge trans
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
