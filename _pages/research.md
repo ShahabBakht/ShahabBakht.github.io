@@ -13,6 +13,8 @@ Specifically, I am interested in the functional properties of the visual system.
 
 To that end, I follow a *“Neuro-AI”* approach: a bidirectional knowledge transfer between neuroscience and AI. In one direction, I use Artificial Neural Networks (ANN) and deep learning techniques to develop theories of visual development and learning in the brain. In the other direction, I leverage our deep learning-based knowledge of brain development and learning to formulate new techniques for building more human-like AI. This continuous dialogue between Neuroscience and AI can create a dynamic ecosystem that will lead to a deeper understanding of brain function and better and more human-aligned AI. 
 
+<img src="/images/neuro-ai.png" style="display: block; margin: auto;" />
+
 <nbsp>
 
 {% include base_path %}
