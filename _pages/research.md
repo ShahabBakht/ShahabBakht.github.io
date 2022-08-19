@@ -12,7 +12,7 @@ An outstanding feature of the brain is its adaptability. Brains continuously cha
 Specifically, I am interested in the functional properties of the visual system. How do neural development and life-long perceptual learning shape the visual system? How has evolution shaped the visual systems of different species? My research aims to answer these questions by developing an algorithmic understanding of how visual experience changes the visual system and how it influences our perceptual and visuomotor abilities. 
 
 
-<img src="/images/neuro-ai.png" style="display: block; margin: auto;" />
+<img src="/images/neuro-ai-cropped.png" style="display: block; margin: auto;" />
 <figcaption align = "center"><b>The Neuro-AI approach</b></figcaption>
 
 
