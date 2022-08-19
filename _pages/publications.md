@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <img src="/images/neuro-ai-cropped.png" width="100" />
   {% include archive-single.html %}
 {% endfor %}
 
