@@ -9,7 +9,7 @@ header:
 
 An outstanding feature of the brain is its adaptability. Brains continuously change, over different time-scales, to adapt to their environments. The functional properties of our brain is the product of millions of years of evolution, years of neural development, and decades of life-long learning. Therefore, understanding the brain largely depends on understanding its adaptation processes. 
 
-Specifically, I am interested in the functional properties of the visual system. How neural development and life-long perceptual learning shape the visual system? How has evolution shaped the visual systems of different species? My research aims to answer these questions by developing an algorithmic understanding of how visual experience changes the visual system and how it influences our perceptual and visuomotor abilities. 
+Specifically, I am interested in the functional properties of the visual system. How do neural development and life-long perceptual learning shape the visual system? How has evolution shaped the visual systems of different species? My research aims to answer these questions by developing an algorithmic understanding of how visual experience changes the visual system and how it influences our perceptual and visuomotor abilities. 
 
 </figure>
 
